@@ -1,5 +1,5 @@
 # AI War Game
-A graph-based territorial war game against a sophisticated AI, Klara.
+A graph-based territorial war game against a sophisticated AI, Klara. 
 
 ## Abstract
 Using the concepts of Graph-based AI traversal concept and Euclidean geometrical graph-transition algorithm, A sophisticated AI named Klara has been created. The success rate of Klara (AI) is 96.52% based on 115 games tested, which equals 111 wins by AI. Based on the 4 user wins, 2 of those wins came from a strategic trap score that resulted in a very close victory. 
