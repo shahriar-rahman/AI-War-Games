@@ -1,0 +1,9 @@
+Colors
+['Red']
+['Green']
+['Blue']
+[['Blue']]
+['Red']
+['Green']
+[['Green']]
+['Blue']
