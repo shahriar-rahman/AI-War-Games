@@ -1,4 +1,4 @@
-# AI-War
+# AI War Game
 A graph-based territorial war game against a sophisticated AI, Klara.
 
 ## Abstract
